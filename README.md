@@ -29,8 +29,6 @@ I am a Full-Stack Develover located in NYC!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iffat77&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iffat77&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iffat77&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
